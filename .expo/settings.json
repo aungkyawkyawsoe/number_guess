@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "up-pnv",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
